@@ -6,17 +6,17 @@ I also have strong knowledge in the field of Machine Learning and can apply Mach
 
 I am interested in new challenges in the field of IoT and Machine Learning and strive to continue learning and growing
 
-- 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
-- 🌱 I’m currently learning about cloud technology for back-end apps
-- 💬 Feel free to ask me about web development or JavaScript
-- 📫 How to reach me: dimas@dicoding.com
+- 🔭 I’m currently working on ID/X Partners as Data Engineer 
+- 🌱 I’m currently learning about Internet of Things, Machine Learning and back-end apps
+- 💬 Feel free to ask me about AI, Internet of Things and Data
+- 📫 How to reach me: fathurrahmanhernanda123@gmail.com
 - ⚡ Fun fact: Father of a daughter
-- 👋 My Linkedin : [fafa-designer](https://www.linkedin.com/in/fafa-designer/)
+- 😄 My Linkedin : [fafa-designer](https://www.linkedin.com/in/fafa-designer/)
 
 <p align="left">
 <a href="https://github.com/fahernkhan">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fahernkhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fahernkhan&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fahernkhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fahernkhan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
