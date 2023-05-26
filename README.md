@@ -13,6 +13,13 @@ I am interested in new challenges in the field of IoT and Machine Learning and s
 - ⚡ Fun fact: Father of a daughter
 - 👋 My Linkedin : [fafa-designer](https://www.linkedin.com/in/fafa-designer/)
 
+<p align="left">
+<a href="https://github.com/fahernkhan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fahernkhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fahernkhan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
@@ -23,18 +30,7 @@ I am interested in new challenges in the field of IoT and Machine Learning and s
   <br>
   
 
-# Halo semua! 
-Perkenalkan nama saya **Fathurrahman Hernanda Khasan**.\
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).\
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).\
-Saya juga memiliki gelar [Google Associate Android Developer](https://www.credential.net/h5deoi5h) sejak 2019.\
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/) ku ya.
  
-<p align="left">
-<a href="https://github.com/fahernkhan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fahernkhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fahernkhan&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+
 
 
