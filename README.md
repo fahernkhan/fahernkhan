@@ -11,7 +11,7 @@ I am interested in new challenges in the field of IoT and Machine Learning and s
 - 💬 Feel free to ask me about web development or JavaScript
 - 📫 How to reach me: dimas@dicoding.com
 - ⚡ Fun fact: Father of a daughter
-- 👋 My Linkedin : [Linkedin](https://www.linkedin.com/in/gilang-adhan/)
+- 👋 My Linkedin : [fafa-designer](https://www.linkedin.com/in/fafa-designer/)
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
