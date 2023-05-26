@@ -1,8 +1,10 @@
 ### Hi! 👋 I'm Fafa.
 
-An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
+I am an IoT Engineer and Machine Learning enthusiast focused on developing innovative and impactful technology solutions. I have experience in building IoT systems from scratch, starting from planning, prototyping, to implementing solutions in real-world environments.
 
-I'm currently active in contributing as Curriculum Developer at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to build courses in Front-End Apps (Web, Android) and Back-End Service.
+I also have strong knowledge in the field of Machine Learning and can apply Machine Learning techniques to improve the efficiency of IoT systems and enhance the overall system performance. I have skills in data processing, predictive model creation, algorithm development, and Machine Learning system optimization.
+
+I am interested in new challenges in the field of IoT and Machine Learning and strive to continue learning and growing
 
 - 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
 - 🌱 I’m currently learning about cloud technology for back-end apps
