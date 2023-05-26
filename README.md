@@ -23,7 +23,7 @@ I am interested in new challenges in the field of IoT and Machine Learning and s
 ### Tech Stack
   <a href="#"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
   <a href="#"><img align="left" alt="Tensorflow" title="Tensorflow" width="21px" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/google-tensorflow-icon.svg" /></a>
-  <a href="#"><img align="left" alt="scikit-learn" title="scikit-learn" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /></a>
+  <a href="#"><img align="left" alt="Scikit-Learn" title="Scikit-Learn" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /></a>
   <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
   <br>
   <br>
