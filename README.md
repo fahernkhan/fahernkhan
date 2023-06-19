@@ -13,6 +13,7 @@ I am interested in new challenges in the field of IoT and Machine Learning and s
 - ⚡ Fun fact: Father of a daughter
 - 😄 My Linkedin : [fafa-designer](https://www.linkedin.com/in/fafa-designer/)
 
+### Github Statistic
 <p align="left">
 <a href="https://github.com/fahernkhan">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fahernkhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
