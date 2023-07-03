@@ -28,6 +28,7 @@ I am interested in new challenges in the field of IoT and Machine Learning and s
   <a href="#"><img align="left" alt="Linux" title="Linux" width="17px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" /></a>
   <a href="#"><img align="left" alt="Docker" title="Docker" width="27px" src="https://www.docker.com/wp-content/uploads/2021/09/Whale-Logo332_5.png.webp" /></a>
   <a href="#"><img align="left" alt="FastAPI" title="FastAPI" width="21px" src="https://pbs.twimg.com/profile_images/1417542931209199621/fWMEIB5j_400x400.jpg" /></a>
+  <a href="#"><img align="left" alt="FastAPI" title="FastAPI" width="25px" src="https://icons-for-free.com/iconfiles/png/512/amazon+aws-1331550885897517282.png" /></a>
   <br>
   <br>
   
