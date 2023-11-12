@@ -6,7 +6,7 @@ I also have strong knowledge in the field of Machine Learning and can apply Mach
 
 I am interested in new challenges in the field of IoT and Machine Learning and strive to continue learning and growing
 
-- 🔭 I’m currently working on Dicoding Scholarship as Devops Engineer 
+- 🔭 I’m currently working on Dicoding Scholarship as Devops Engineer Expert
 - 🌱 I’m currently learning about Internet of Things, Machine Learning and back-end apps
 - 💬 Feel free to ask me about AI, Internet of Things and Data
 - 📫 How to reach me: fathurrahmanhernanda123@gmail.com
