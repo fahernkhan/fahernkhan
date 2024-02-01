@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Fafa.
 
-I am an IoT Engineer and Machine Learning enthusiast focused on developing innovative and impactful technology solutions. I have experience in building IoT systems from scratch, starting from planning, prototyping, to implementing solutions in real-world environments.
+I am an Tech and Data enthusiast focused on developing innovative and impactful technology solutions. I have experience in building IoT systems from scratch, starting from planning, prototyping, to implementing solutions in real-world environments.
 
 I also have strong knowledge in the field of Machine Learning and can apply Machine Learning techniques to improve the efficiency of IoT systems and enhance the overall system performance. I have skills in data processing, predictive model creation, algorithm development, and Machine Learning system optimization.
 
