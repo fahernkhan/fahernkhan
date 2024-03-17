@@ -28,6 +28,7 @@ I am interested in new challenges in the field of IoT and Machine Learning and s
   <a href="#"><img align="left" alt="Linux" title="Linux" width="17px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" /></a>
   <a href="#"><img align="left" alt="Docker" title="Docker" width="27px" src="https://www.docker.com/wp-content/uploads/2021/09/Whale-Logo332_5.png.webp" /></a>
   <a href="#"><img align="left" alt="Git" title="Git" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" /></a>
+  <a href="#"><img align="left" alt="Git" title="MySql" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/7/7b/MySQL_Dolphin.jpg" /></a>
   <br>
   <br>
   
