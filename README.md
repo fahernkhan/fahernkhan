@@ -31,6 +31,7 @@ I am interested in new challenges in the field of IoT and Machine Learning and s
   <a href="#"><img align="left" alt="Git" title="Git" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" /></a>
   <a href="#"><img align="left" alt="SQL" title="SQL" width="21px" src="https://github.com/fahernkhan/fahernkhan/assets/128980804/2bf886b8-c657-4a0b-a21e-f433071bf4d7" /></a>
   <a href="#"><img align="left" alt="Tableau" title="Tableau" width="21px" src="https://github.com/fahernkhan/fahernkhan/assets/128980804/a449bb2a-fddb-470c-a7d9-cbb436ada008" /></a>
+  <a href="#"><img align="left" alt="Chat-GPT" title="Chat-GPT" width="21px" src="https://github.com/fahernkhan/fahernkhan/assets/128980804/58ff8dbc-39d8-475e-918b-31ff40a524d4" /></a>
   <br>
   <br>
   
