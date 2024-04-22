@@ -23,7 +23,7 @@ I am interested in new challenges in the field of IoT and Machine Learning and s
 
 ### Tech Stack
   <a href="#"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
-  <a href="#"><img align="left" alt="Java" title="Java" width="23px" src="https://github.com/fahernkhan/fahernkhan/assets/128980804/7b1c5a3c-dbbf-43c8-ba07-a73033e556f9" /></a>
+  <a href="#"><img align="left" alt="Java" title="Java" width="23px" src="https://github.com/fahernkhan/fahernkhan/assets/128980804/221c4bdd-d669-4db6-9c78-b70693bc38ef" /></a>
   <a href="#"><img align="left" alt="Tensorflow" title="Tensorflow" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" /></a>
   <a href="#"><img align="left" alt="Scikit-Learn" title="Scikit-Learn" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /></a>
   <a href="#"><img align="left" alt="Linux" title="Linux" width="17px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" /></a>
