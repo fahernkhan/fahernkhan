@@ -11,7 +11,7 @@ I am interested in new challenges in the field of IoT and Machine Learning and s
 - 💬 Feel free to ask me about AI, Software Engineering and Data
 - 📫 How to reach me: fathurrahmanhernanda123@gmail.com
 - ⚡ Fun fact: Father of a daughter
-- 😄 My Linkedin : [fafa-designer](https://www.linkedin.com/in/fafa-designer/)
+- 😄 My Linkedin : [fafa-designer](https://www.linkedin.com/in/fathurrahmanhernanda/)
 
 ### Github Statistic
 <p align="left">
