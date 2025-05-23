@@ -1,4 +1,4 @@
-### Hi! 👋 I'm Fafa.
+### Hi! 👋 I'm Fathur.
 
 I am an Tech and Data enthusiast focused on developing innovative and impactful technology solutions. I have experience in building IoT systems from scratch, starting from planning, prototyping, to implementing solutions in real-world environments.
 
