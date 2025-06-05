@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Fathur.
 
-👋 Hi, I'm Fathurrahman Hernanda Khasan — Data Engineer | Future Data Architect | Tech-Driven Problem Solver
+👋 I'm Fathurrahman Hernanda Khasan — Data Engineer | Future Data Architect | Tech-Driven Problem Solver
 I am a Data Engineer passionate about building scalable and reliable data systems. With hands-on experience across end-to-end data pipelines, cloud platforms (GCP & AWS), and workflow automation, I specialize in turning raw data into actionable insights to support strategic decisions.
 
 Through real-world projects, I have worked with modern data engineering tools such as SQL, Python, dbt, Airflow, Docker, and BigQuery. I focus on designing efficient data models, implementing event tracking systems, and automating pipelines that drive business value.
