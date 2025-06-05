@@ -14,10 +14,6 @@ My long-term goal is to become a Data Architect and Strategic Data Leader who le
 
 ⚙️ Learning: Advanced Data Engineering Architecture | Cloud Data Platform | DataOps Practices
 
-I am an Tech and Data enthusiast focused on developing innovative and impactful technology solutions. I have experience in building IoT systems from scratch, starting from planning, prototyping, to implementing solutions in real-world environments.
-
-I also have strong knowledge in the field of Machine Learning and can apply Machine Learning techniques to improve the efficiency of IoT systems and enhance the overall system performance. I have skills in data processing, predictive model creation, algorithm development, and Machine Learning system optimization.
-
 I am interested in new challenges in the field of IoT and Machine Learning and strive to continue learning and growing
 
 - 🔭 I’m currently working As a Engineer
