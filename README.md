@@ -1,13 +1,27 @@
 ### Hi! 👋 I'm Fathur.
 
+👋 Hi, I'm Fathurrahman Hernanda Khasan — Data Engineer | Future Data Architect | Tech-Driven Problem Solver
+I am a Data Engineer passionate about building scalable and reliable data systems. With hands-on experience across end-to-end data pipelines, cloud platforms (GCP & AWS), and workflow automation, I specialize in turning raw data into actionable insights to support strategic decisions.
+
+Through real-world projects, I have worked with modern data engineering tools such as SQL, Python, dbt, Airflow, Docker, and BigQuery. I focus on designing efficient data models, implementing event tracking systems, and automating pipelines that drive business value.
+
+💡 My Vision
+My long-term goal is to become a Data Architect and Strategic Data Leader who leads the design of enterprise-scale data platforms, enabling organizations to unlock the full potential of their data through automation, governance, and performance optimization.
+
+
+🎓 Top Graduate in Data Fellowship Program – Komunidata by IYKRA
+→ Built real-case data pipelines and won Best Project Group award.
+
+⚙️ Learning: Advanced Data Engineering Architecture | Cloud Data Platform | DataOps Practices
+
 I am an Tech and Data enthusiast focused on developing innovative and impactful technology solutions. I have experience in building IoT systems from scratch, starting from planning, prototyping, to implementing solutions in real-world environments.
 
 I also have strong knowledge in the field of Machine Learning and can apply Machine Learning techniques to improve the efficiency of IoT systems and enhance the overall system performance. I have skills in data processing, predictive model creation, algorithm development, and Machine Learning system optimization.
 
 I am interested in new challenges in the field of IoT and Machine Learning and strive to continue learning and growing
 
-- 🔭 I’m currently working on Dicoding Scholarship as Devops Engineer Expert
-- 🌱 I’m currently learning about Full Stack Data, Machine Learning and back-end apps
+- 🔭 I’m currently working As a Engineer
+- 🌱 I’m currently learning about Full Stack Data, Devops and back-end apps
 - 💬 Feel free to ask me about AI, Software Engineering and Data
 - 📫 How to reach me: fathurrahmanhernanda123@gmail.com
 - ⚡ Fun fact: The true Master is the eternal student (master yi)
